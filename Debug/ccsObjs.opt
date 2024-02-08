@@ -1,0 +1,1 @@
+"./cs.obj" "./lcd.obj" "./main.obj" "./msp430ports.obj" "./pt.obj" "./st.obj" "./teclado.obj" "../lnk_msp430fr6989.cmd" 
